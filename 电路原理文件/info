@@ -1,0 +1,39 @@
+{
+  "uuid": "40a673823796728ef2e1ea6964b8f595",
+  "path": "Offline/磁悬浮控制电路",
+  "name": "磁悬浮控制电路",
+  "content": "基于单片机的磁悬浮电路设计",
+  "created_at": "2021-06-29 11:25:18",
+  "updated_at": "2021-06-29 11:25:18",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "d628b864d1ee2f1c9f4d6bfc4e0b6d8d",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1624937118,
+      "createTime": 1624937118,
+      "histories": [],
+      "created_at": "2021-06-29 11:25:18",
+      "updated_at": "2021-06-29 11:25:18"
+    }
+  ],
+  "sort": [],
+  "title": "磁悬浮控制电路",
+  "foldername": "磁悬浮控制电路",
+  "schfilename": "磁悬浮控制电路.json",
+  "schfilemtime": 1624937118485
+}
